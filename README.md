@@ -68,7 +68,7 @@ Here are the tools I'm building as part of the **KamSec Offensive Toolkit**:
 - **TryHackMe:** KamSec  
 - **GitHub:** KamSecX  
 - **HackerOne:** Coming soon  
-- **Email:** coming soon  
+- **Email:** kamsecxone@gmail.com 
 
 ---
 
