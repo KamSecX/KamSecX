@@ -1,4 +1,4 @@
-<h1 align="center">🛡️ KamSecX</h1>
+<h1 align="center">🛡️ KamSecHQ</h1>
 <p align="center">
   <strong>Cybersecurity Researcher • Bug Bounty Hunter • Developer</strong>
 </p>
@@ -37,7 +37,10 @@ I believe in **discipline, consistency, and technical mastery**.
 - Node.js  
 - Express.js  
 - Git & GitHub  
-- Docker  
+- Docker
+  
+## 🎯 TryHackMe Progress
+[<img src="https://tryhackme-badges.s3.amazonaws.com/KamSec.png" alt="TryHackMe Badge" />](https://tryhackme.com/p/KamSec)
 
 ---
 
